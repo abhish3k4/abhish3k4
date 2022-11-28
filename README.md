@@ -36,7 +36,7 @@ Scripting languages like Bash and Python.<br>
 
   
 
-<p align="center">1. - TryHackMe profile with <i>[0xD][God]</i> range and Top <i>50</i> of India
+<p align="center">1. - TryHackMe profile with <i>[0x9][OMNI]</i>
   <br><br>
  <a href="https://tryhackme.com/p/whitwolf"> <img src="https://tryhackme-badges.s3.amazonaws.com/whitwolf.png" alt="TryHackMe"></a>   
   
