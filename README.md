@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkushSinghGandhi/AnkushSinghGandhi/master/images/dino.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/AnkushSinghGandhi/AnkushSinghGandhi/master/images/dino.gif" width="500" height="500"/>
 </p> 
 
 <h1 align="center">👋 Hello World! I'm Abhishek</h1>
