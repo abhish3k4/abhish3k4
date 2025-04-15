@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkushSinghGandhi/AnkushSinghGandhi/master/images/dino.gif" width="200"/>
-</p>  
+  <img src="https://raw.githubusercontent.com/AnkushSinghGandhi/AnkushSinghGandhi/master/images/dino.gif" width="300"/>
+</p> 
 
 <h1 align="center">👋 Hello World! I'm Abhishek</h1>
 <h3 align="center">⚡ Cybersecurity Researcher | AI/ML Enthusiast | Graduate Researcher</h3>
